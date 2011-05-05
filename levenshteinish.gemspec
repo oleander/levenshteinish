@@ -1,10 +1,9 @@
 # -*- encoding: utf-8 -*-
 $:.push File.expand_path("../lib", __FILE__)
-require "levenshteinish/version"
 
 Gem::Specification.new do |s|
   s.name        = "levenshteinish"
-  s.version     = Levenshteinish::VERSION
+  s.version     = "0.0.2"
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Linus Oleander"]
   s.email       = ["linus@oleander.nu"]
