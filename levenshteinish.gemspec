@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Linus Oleander"]
   s.email       = ["linus@oleander.nu"]
-  s.homepage    = ""
-  s.summary     = %q{An implementation of levenshteinish}
-  s.description = %q{An basic implementation of levenshteinish}
+  s.homepage    = "https://github.com/oleander/levenshteinish"
+  s.summary     = %q{An average distance implementation of the hintable_levenshtein gem}
+  s.description = %q{An average distance implementation of the hintable_levenshtein gem.}
 
   s.rubyforge_project = "levenshteinish"
 
