@@ -21,4 +21,4 @@ The `distance` method returns a value between `0.0` and `1.0`, where `0.0` is sp
 
 ## License
 
-*Levenshteinish* is released under the *MIT license*.
+*Levenshteinish* is released under the *MIT license*.  See `LICENSE` file for details.
