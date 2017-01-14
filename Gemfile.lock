@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    levenshteinish (0.0.3)
+    levenshteinish (1.0.0)
       hintable_levenshtein
 
 GEM
