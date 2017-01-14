@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    levenshteinish (0.0.1)
+    levenshteinish (0.0.3)
       hintable_levenshtein
 
 GEM
@@ -22,6 +22,8 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  hintable_levenshtein
   levenshteinish!
   rspec
+
+BUNDLED WITH
+   1.12.5
